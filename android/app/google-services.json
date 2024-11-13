@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245234190102",
+    "project_id": "suraksha-ede5e",
+    "storage_bucket": "suraksha-ede5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245234190102:android:f17cccb607ca383407b237",
+        "android_client_info": {
+          "package_name": "com.example.liki_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjOc_bnX9uLMNnih_-qhCNtnj-1hTJcJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
